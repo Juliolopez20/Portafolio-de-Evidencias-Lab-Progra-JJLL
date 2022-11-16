@@ -1,0 +1,15 @@
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.csproj.AssemblyReference.cache
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.AssemblyInfoInputs.cache
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.AssemblyInfo.cs
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.csproj.CoreCompileInputs.cache
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/bin/Debug/net6.0/Corto3_1030021_JJLL
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/bin/Debug/net6.0/Corto3_1030021_JJLL.deps.json
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/bin/Debug/net6.0/Corto3_1030021_JJLL.runtimeconfig.json
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/bin/Debug/net6.0/Corto3_1030021_JJLL.dll
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/bin/Debug/net6.0/Corto3_1030021_JJLL.pdb
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.dll
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/refint/Corto3_1030021_JJLL.dll
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.pdb
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/Corto3_1030021_JJLL.genruntimeconfig.cache
+/Users/juliojoselopez/Desktop/Corto 3 Progra/Corto3_1030021_JJLL/Corto3_1030021_JJLL/obj/Debug/net6.0/ref/Corto3_1030021_JJLL.dll

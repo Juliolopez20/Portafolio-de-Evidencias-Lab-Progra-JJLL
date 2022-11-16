@@ -1,0 +1,13 @@
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/bin/Debug/netcoreapp3.1/1030021_S8_C1.deps.json
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/bin/Debug/netcoreapp3.1/1030021_S8_C1.runtimeconfig.json
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/bin/Debug/netcoreapp3.1/1030021_S8_C1.runtimeconfig.dev.json
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/bin/Debug/netcoreapp3.1/1030021_S8_C1.dll
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/bin/Debug/netcoreapp3.1/1030021_S8_C1.pdb
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.csproj.AssemblyReference.cache
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.AssemblyInfoInputs.cache
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.AssemblyInfo.cs
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.csproj.CoreCompileInputs.cache
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.dll
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.pdb
+/Users/juliojoselopez/Desktop/1030021_S8_C1/1030021_S8_C1/1030021_S8_C1/obj/Debug/netcoreapp3.1/1030021_S8_C1.genruntimeconfig.cache

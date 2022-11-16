@@ -1,0 +1,5 @@
+/Users/juliojoselopez/Desktop/Ejercicios de Teoria progra/1030021_Actividad4/1030021_Actividad4/obj/Debug/netcoreapp3.1/1030021_Actividad4.csproj.AssemblyReference.cache
+/Users/juliojoselopez/Desktop/Ejercicios de Teoria progra/1030021_Actividad4/1030021_Actividad4/obj/Debug/netcoreapp3.1/1030021_Actividad4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliojoselopez/Desktop/Ejercicios de Teoria progra/1030021_Actividad4/1030021_Actividad4/obj/Debug/netcoreapp3.1/1030021_Actividad4.AssemblyInfoInputs.cache
+/Users/juliojoselopez/Desktop/Ejercicios de Teoria progra/1030021_Actividad4/1030021_Actividad4/obj/Debug/netcoreapp3.1/1030021_Actividad4.AssemblyInfo.cs
+/Users/juliojoselopez/Desktop/Ejercicios de Teoria progra/1030021_Actividad4/1030021_Actividad4/obj/Debug/netcoreapp3.1/1030021_Actividad4.csproj.CoreCompileInputs.cache
