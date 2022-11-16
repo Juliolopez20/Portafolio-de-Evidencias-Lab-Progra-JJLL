@@ -1,0 +1,52 @@
+﻿using System;
+
+namespace Programa_1_Julio_Lopez
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("area de un circulo");
+
+            // Declarar variables
+            double r, pi;
+            double area;
+
+
+
+            //Asignar valores
+            pi = 3.14;
+            r = 0;
+
+            //Solicitando al usuario ingreso de valores
+            Console.WriteLine("Ingresa");
+            SolicitarDatos();
+            double resultado = calculoArea(r);
+            
+
+            Console.WriteLine("El valor del area es: " + resultado.ToString());
+           
+
+            //Metodos = se dividen en funciones y procedimientos
+
+            //Declarar procedimientos
+            void SolicitarDatos()
+            {
+                r = Convert.ToDouble(Console.ReadLine());
+                
+            }
+
+            // Declarar funciones
+            double calculoArea(double radio)
+            {
+                //Calculo area = pi*r^2
+                area = pi * Math.Pow(r, 2);
+                return area;
+            }
+
+           
+            
+
+        }
+    }
+}

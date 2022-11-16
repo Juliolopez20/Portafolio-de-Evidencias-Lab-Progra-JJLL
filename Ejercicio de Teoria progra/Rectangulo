@@ -1,0 +1,58 @@
+﻿using System;
+
+namespace Programa_1_Julio_Lopez
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ejercicio en clase");
+
+            // Declarar variables
+            double r, pi;
+            double area;
+           
+            
+
+            //Asignar valores
+            pi = 0;
+            r = 0;
+
+            //Solicitando al usuario ingreso de valores
+            Console.WriteLine("Ingresar valores de base y de altura");
+            SolicitarDatos();
+            double resultado = calculoArea(r);
+            double resultadoperimetro = calculoPerimetro(r);
+            
+            Console.WriteLine("El valor del area es: " + resultado.ToString());
+            Console.WriteLine("El valor del perimetro es: " + resultadoperimetro.ToString());
+
+            //Metodos = se dividen en funciones y procedimientos
+
+            //Declarar procedimientos
+            void SolicitarDatos()
+            {
+                r = Convert.ToDouble(Console.ReadLine());
+                pi = Convert.ToDouble(Console.ReadLine());
+            }
+
+            // Declarar funciones
+            double calculoArea(double radio)
+            {
+                //Calculo area = pi*r^2
+                area = pi*r;
+                return area;
+            }
+
+            // Declarar funciones
+            double calculoPerimetro(double perimetro )
+            {
+                perimetro = r+r+ pi+pi;
+                return perimetro;
+            }
+
+           
+        }
+    }
+    
+}
